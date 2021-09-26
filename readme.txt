@@ -1,4 +1,4 @@
-1. ไฟล์งานจะอยู่ใน server.go 
+1. ไฟล์งานจะอยู่ใน server.go ครับ
 2. ใช้ mysql เป็น database ครับ
 3. เวลา run บน broswer ใช้ http://localhost:1323/ ตาม coding ดังนี้
   e.Logger.Fatal(e.Start(":1323"))
