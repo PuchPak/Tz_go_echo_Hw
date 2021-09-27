@@ -6,6 +6,7 @@
   db, err := gorm.Open("mysql", "root:1234@tcp(127.0.0.1:3306)/godb?charset=utf8&parseTime=True")
 5. ไฟล์ table ได้ทำการ export ไว้แล้วชื่อไฟล์ echoHW.sql
 6. ผมได้ใช้ postman ในการเทส api แล้วโดยได้ลองในส่วนของ get , post แล้วก็ delete แล้วทำให้ข้อมูลใน table ทุก table เหลือเพียงข้อมูลเดียวโดย URL ที่เทสจะมีดังนี้ 
+  เทส get
   http://localhost:1323/
   http://localhost:1323/bookstores/
   http://localhost:1323/bookstores/1
@@ -13,4 +14,7 @@
   http://localhost:1323/memberships/1
   http://localhost:1323/orders/
   http://localhost:1323/orders/1
-  
+  เทส post 
+  http://localhost:1323/bookstores/
+  http://localhost:1323/memberships/
+  http://localhost:1323/orders/
