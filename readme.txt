@@ -13,9 +13,9 @@
   http://localhost:1323/bookstores/1
   http://localhost:1323/memberships/
   http://localhost:1323/memberships/1
-  http://localhost:1323/orders/
-  http://localhost:1323/orders/1
+  http://localhost:1323/Orders/
+  http://localhost:1323/Orders/1
   เทส post 
   http://localhost:1323/bookstores/
   http://localhost:1323/memberships/
-  http://localhost:1323/orders/
+  http://localhost:1323/Orders/
