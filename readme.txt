@@ -9,13 +9,13 @@
 7. ผมได้ใช้ postman ในการเทส api แล้วโดยได้ลองในส่วนของ get , post แล้วก็ delete แล้วทำให้ข้อมูลใน table ทุก table เหลือเพียงข้อมูลเดียวโดย URL ที่เทสจะมีดังนี้ 
   เทส get
   http://localhost:1323/
-  http://localhost:1323/bookstores/
+  http://localhost:1323/bookstores
   http://localhost:1323/bookstores/1
-  http://localhost:1323/memberships/
+  http://localhost:1323/memberships
   http://localhost:1323/memberships/1
-  http://localhost:1323/Orders/
+  http://localhost:1323/Orders
   http://localhost:1323/Orders/1
   เทส post 
-  http://localhost:1323/bookstores/
-  http://localhost:1323/memberships/
-  http://localhost:1323/Orders/
+  http://localhost:1323/bookstores
+  http://localhost:1323/memberships
+  http://localhost:1323/Orders
